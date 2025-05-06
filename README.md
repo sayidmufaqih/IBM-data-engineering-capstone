@@ -8,7 +8,10 @@ This is a capstone project from the IBM Data Engineering Professional Certificat
 ## 🛠 Tools
 - Python (Pandas)
 - Jupyter Notebooks
+- SQL
 
 ## 🗂 Structure
-- `notebooks/` – Notebook for ETL steps
-- `data/` – Datasets used in the project
+- Project 1 - Extract, Transform, and Load (ETL) Data using Python
+- Project 2 – Web scraping and Extracting Data using APIs
+- Project 3 - Accessing Databases using Python Script
+- Final Project - ETL operations on Country-GDP data
